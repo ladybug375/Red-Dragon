@@ -42,8 +42,8 @@
     "nextPreKeyId": 31,
     "firstUnuploadedPreKeyId": 31,
     "serverHasPreKeys": true,
-    "account": {
-      "details": "CJrZt0EQnea4mgYYAQ==",
+    "account": 
+      "details": "CJrZt0EQnea4mgYYAQ=="
       "accountSignatureKey": "/dlIX6Cv1GcEXaBq5/FX7NKPMBbp426TRpZRD7vv1GU=",
       "accountSignature": "DnNJ50x1V6VE/tI/WxfNeOMNGMxQxfy6aipTsPhkl9RcgU2qNfHWruR03esmU6Q+K4eoZi+lPtYXNfUIEfspBw==",
       "deviceSignature": "M2pq9E4lZEIjvwiZ41f8wcleARWsK4Z7aA0GEdOH2t9rCm7N+asjX8P6mY5Q0PZz/Xjs82xrNhhTv3Tfv5nxhw=="
@@ -51,7 +51,7 @@
     "me": {
       "id": "94711653194:1@s.whatsapp.net",
       "verifiedName": "",
-      "name": "𝘔𝘳.𝘿𝘼𝙍𝙆"
+      "name": "𝘔𝘳.𝘿𝘼𝙍𝙆
     },
     "signalIdentities": [
       {
@@ -60,7 +60,7 @@
           "deviceId": 0
         },
         "identifierKey": {
-          "type": "Buffer",
+          "type": "Buffer"
           "data": "Bf3ZSF+gr9RnBF2gaufxV+zSjzAW6eNuk0aWUQ+779Rl"
         }
       }
@@ -70,7 +70,7 @@
   },
   "keys": {
     "preKeys": {
-      "1": {
+      "1": 
         "private": {
           "type": "Buffer",
           "data": "EG15a2ZXABrAGnf8WlXNZpaAZqA6guScI1GPv/ViAVY="
@@ -79,7 +79,7 @@
           "type": "Buffer",
           "data": "ms19+Nxp9Vh2V35+SxOphnpbMtBHLzdDUSijB16r6Gs="
         }
-      },
+      }
       "2": {
         "private": {
           "type": "Buffer",
@@ -460,4 +460,3 @@
       }
     }
   }
-}
